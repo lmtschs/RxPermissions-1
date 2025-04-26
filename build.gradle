@@ -46,8 +46,8 @@ ext {
 
     libraryDescription = 'A wrapper for Android 6.0 permissions'
 
-    siteUrl = 'https://github.com/tbruyelle/RxPermissions'
-    gitUrl = 'https://github.com/tbruyelle/RxPermissions.git'
+    siteUrl = 'https://github.com/lmtschs/RxPermissions'
+    gitUrl = 'https://github.com/lmtschs/RxPermissions.git'
 
     developerId = 'tbruyelle'
     developerName = 'Thomas Bruyelle'
